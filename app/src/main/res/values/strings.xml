@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name" translatable="false">Recipe book</string>
+    <string name="navigation_drawer_open">Navigation drawer kinyitása</string>
+    <string name="navigation_drawer_close">Navigation drawer bezárása</string>
+    <string name="nav_header_title">Bevásárlólistáim</string>
+    <string name="nav_header_subtitle">Készítette: Nagy Attila</string>
+    <string name="nav_header_desc">Navigációs fejléc</string>
+    <string name="action_settings">Beállítások</string>
+    <string name="title_activity_recipes" translatable="false">RecipesActivity</string>
+    <string name="required">Kötelező</string>
+    <string name="loading">Bejelentkezés…</string>
+    <string name="item_created">Recept létrehozva</string>
+    <string name="item_updated">Recept frissítve</string>
+    <string name="registration">Sikeres regisztráció</string>
+    <string name="sign_out">Kijelentkezés</string>
+    <string name="sign_out_message">Biztosan ki szeretnél jelentkezni?</string>
+    <string name="ok">Igen</string>
+    <string name="no">Nem</string>
+    <string name="save">Mentés</string>
+    <string name="cancel">Mégse</string>
+    <string name="name_of_the_recipe">Recept neve</string>
+    <string name="item">Termék</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="register">Regisztráció</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="nav_search">Keresés</string>
+    <string name="title_activity_add_new_recipe" translatable="false">AddNewRecipeActivity</string>
+    <string name="origin">Származás</string>
+    <string name="ingredients">Hozzávalók</string>
+    <string name="steps">Lépések</string>
+    <string name="search">Keresés</string>
+    <string name="all">Összes</string>
+    <string name="exit">Vissza</string>
+
+
+</resources>
